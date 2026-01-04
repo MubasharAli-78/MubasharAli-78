@@ -57,7 +57,6 @@ Artificial Intelligence, Machine Learning, Programming in AI,
 Artificial Neural Networks, Deep Learning, Computer Vision,  
 Natural Language Processing, Knowledge Representation & Reasoning
 
----
 
 ### 🏆 Final Year Project
 **AI-Powered Cricket Coaching: Gesture-Based Cricket Coaching System**
