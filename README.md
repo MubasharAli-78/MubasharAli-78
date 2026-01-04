@@ -24,7 +24,7 @@ Focused on delivering scalable, efficient, and real-world deployable AI products
 
 ## 💼 Professional Experience
 
-### 🧠 Junior AI Engineer | Highfive Electronics  
+### 🧠 AI Engineer | Highfive Electronics  
 **June 2024 – January 2025 | Islamabad, Pakistan**
 
 - **Computer Vision Solutions:** Developed YOLOv8-based object detection models for:
@@ -36,7 +36,7 @@ Focused on delivering scalable, efficient, and real-world deployable AI products
 
 ---
 
-### 🚁 Junior Computer Vision Engineer | Dione Technologies  
+### 🚁 Computer Vision Engineer | Dione Technologies  
 **January 2024 – June 2024 | Rawalpindi, Pakistan**
 
 - **UAV-Based Detection:** Developed real-time vehicle detection model achieving **90%+ accuracy** from UAV imagery
