@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mubashar Ali  
-### AI Engineer | Computer Vision Specialist | Applied ML & LLM Practitioner  
+### AI Engineer | Computer Vision Specialist | Applied ML, LLM & Agentic AI Practitioner  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mub-ali)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasharalisatti@gmail.com)
@@ -12,9 +12,9 @@
 ---
 
 ## 👨‍💻 About Me
-AI Engineer with strong hands-on experience in **Computer Vision, Deep Learning, and Applied Machine Learning**.  
-Specialized in building **production-ready AI systems**, including real-time object detection, pose estimation, UAV analytics, NLP pipelines, and LLM-powered solutions.  
-Focused on delivering scalable, efficient, and real-world deployable AI products.
+AI Engineer with strong hands-on experience in **Computer Vision, Deep Learning, NLP, LLMs, and Agentic AI systems**.  
+Specialized in building **production-ready AI systems**, including real-time object detection, pose estimation, UAV analytics, RAG-based chatbots, and multi-agent AI solutions.  
+Focused on delivering scalable, efficient, and real-world deployable AI products using modern frameworks like **LangChain, LangGraph, and CrewAI**.
 
 📍 **Location:** Islamabad, Pakistan  
 📧 **Email:** mubasharalisatti@gmail.com  
@@ -24,25 +24,36 @@ Focused on delivering scalable, efficient, and real-world deployable AI products
 
 ## 💼 Professional Experience
 
-### 🧠 AI Engineer | Highfive Electronics  
-**June 2024 – January 2025 | Islamabad, Pakistan**
+### 🧠 AI Engineer | VisionTact  
+**February 2026 – Present | Gulberg, Islamabad, Pakistan**
 
-- **Computer Vision Solutions:** Developed YOLOv8-based object detection models for:
-  - Medical diagnostics (acne disease detection)
-  - Agricultural applications (plant disease identification)
-- **NLP Systems:** Built BERT-based fake news detection system with high accuracy
-- **IoT Integration:** Created AI-IoT integrated smart irrigation system combining machine learning with embedded systems
-- Designed optimized pipelines for real-world deployment
+- Built **LLM-based chatbot** using **RAG + LangChain** for context-aware responses  
+- Developed **VoiceTact**, a multi-agent voice AI system with **STT, TTS, and real-time LLM pipelines**  
+- Designed **agentic workflows** using **LangChain, LangGraph, and CrewAI**  
+- Implemented **prompt routing, tool integration, and dynamic task execution**  
+- Integrated **LiveKit, ElevenLabs, and vector databases** for low-latency scalable systems  
+
+---
+
+### 🧠 AI Engineer | Highfive Electronics  
+**February 2025 – January 2026 | Islamabad, Pakistan**
+
+- Developed YOLOv8-based object detection models for:
+  - Medical diagnostics (acne detection)
+  - Agricultural applications (plant disease detection)
+- Built **BERT-based fake news detection system**
+- Designed **AI-IoT smart irrigation system**
+- Optimized pipelines for real-world deployment  
 
 ---
 
 ### 🚁 Computer Vision Engineer | Dione Technologies  
 **January 2024 – June 2024 | Rawalpindi, Pakistan**
 
-- **UAV-Based Detection:** Developed real-time vehicle detection model achieving **90%+ accuracy** from UAV imagery
-- **Agricultural AI:** Built advanced crop monitoring system for aerial agricultural analysis
-- **Autonomous Systems:** Implemented precision target tracking system for autonomous applications
-- Optimized inference for real-time and edge environments
+- Developed real-time vehicle detection model achieving **90%+ accuracy** from UAV imagery  
+- Built aerial **crop monitoring system**  
+- Implemented **precision target tracking system**  
+- Optimized models for **real-time and edge deployment**  
 
 ---
 
@@ -55,16 +66,17 @@ Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR)
 **Key Coursework:**  
 Artificial Intelligence, Machine Learning, Programming in AI,  
 Artificial Neural Networks, Deep Learning, Computer Vision,  
-Natural Language Processing, Knowledge Representation & Reasoning
+Natural Language Processing, Knowledge Representation & Reasoning  
 
+---
 
 ### 🏆 Final Year Project
 **AI-Powered Cricket Coaching: Gesture-Based Cricket Coaching System**
 
-- Developed intelligent gesture-based cricket coaching system using advanced computer vision
-- Implemented real-time pose estimation with **MediaPipe** for biomechanical analysis
-- Created algorithms for technique assessment and personalized feedback generation
-- Built full-stack mobile application with **Flutter frontend**, **Python backend**, and **SQL Server database**
+- Real-time pose estimation using **MediaPipe**
+- Biomechanical analysis for cricket techniques  
+- Personalized feedback system  
+- Full-stack app (**Flutter + Python + SQL Server**)  
 
 ---
 
@@ -76,6 +88,8 @@ Natural Language Processing, Knowledge Representation & Reasoning
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+---
+
 ### **AI / ML Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -84,15 +98,15 @@ Natural Language Processing, Knowledge Representation & Reasoning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Core Technologies:** MediaPipe, YOLOv8, Transformers
+**Core Technologies:** MediaPipe, YOLOv8, Transformers  
 
 ---
 
-### **LLM & Generative AI**
+### **LLM, Generative AI & Agentic AI**
 - **Models:** GPT, Claude, Llama, Mistral, DeepSeek  
-- **Techniques:** Fine-tuning, RAG (Retrieval-Augmented Generation), Prompt Engineering  
-- **Frameworks:** LangChain  
-- **Infrastructure:** Vector Databases, Embedding Models  
+- **Techniques:** Fine-tuning, RAG, Prompt Engineering  
+- **Frameworks:** LangChain, LangGraph, CrewAI  
+- **Infrastructure:** Vector Databases, Embeddings  
 
 ---
 
@@ -108,7 +122,7 @@ Natural Language Processing, Knowledge Representation & Reasoning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
-**Tools:** Seaborn, Statistical Analysis, Data Visualization
+**Tools:** Seaborn, Statistical Analysis, Data Visualization  
 
 ---
 
@@ -123,30 +137,38 @@ Natural Language Processing, Knowledge Representation & Reasoning
 ## 🚀 Featured Projects
 
 ### 🏏 AI-Powered Cricket Coaching
-Gesture-based cricket coaching system with real-time pose estimation and biomechanical analysis.  
 **Tech Stack:** MediaPipe, OpenCV, Python, Flutter, SQL Server  
-**Impact:** Automated technique assessment & personalized feedback
+**Impact:** Automated technique assessment & personalized feedback  
 
 ---
 
 ### 🚗 UAV Vehicle Detection
-Real-time vehicle detection from aerial imagery with **90%+ accuracy**.  
-**Tech Stack:** YOLOv8, PyTorch, Computer Vision  
-**Applications:** Traffic monitoring, UAV surveillance, autonomous systems
+**Tech Stack:** YOLOv8, PyTorch  
+**Impact:** 90%+ accurate aerial vehicle detection  
 
 ---
 
 ### 🌱 Plant Disease Detection
-AI-based agricultural diagnostics using YOLOv8.  
-**Tech Stack:** YOLOv8, OpenCV, Python  
-**Impact:** Early disease detection for precision farming
+**Tech Stack:** YOLOv8, OpenCV  
+**Impact:** Precision farming support  
 
 ---
 
 ### 📰 Fake News Detection
-BERT-based NLP system for misinformation detection.  
-**Tech Stack:** Transformers, NLP, Python  
-**Impact:** Accurate fake vs real news classification
+**Tech Stack:** Transformers (BERT)  
+**Impact:** Accurate misinformation classification  
+
+---
+
+### 🤖 LLM-Based RAG Chatbot
+**Tech Stack:** LangChain, Vector DB, LLMs  
+**Impact:** Context-aware intelligent responses  
+
+---
+
+### 🗣️ VoiceTact Multi-Agent AI System
+**Tech Stack:** LangChain, LangGraph, CrewAI, LiveKit, ElevenLabs  
+**Impact:** Real-time voice-based AI with agent orchestration  
 
 ---
 
@@ -164,10 +186,10 @@ BERT-based NLP system for misinformation detection.
 ## 💡 Areas of Expertise
 ```python
 expertise = {
-    "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Deep Learning"],
+    "Machine Learning": ["Supervised", "Unsupervised", "Deep Learning"],
     "Computer Vision": ["Object Detection", "Pose Estimation", "UAV Analytics"],
-    "Natural Language Processing": ["LLMs", "Text Classification", "Fake News Detection"],
-    "Generative AI": ["RAG Systems", "Prompt Engineering", "LLM Fine-Tuning"],
-    "Applied AI": ["Edge AI", "AI-IoT Systems", "Production ML"],
-    "MLOps": ["API Deployment", "Inference Optimization"]
+    "NLP & LLMs": ["RAG", "Text Classification", "Chatbots"],
+    "Agentic AI": ["LangChain", "LangGraph", "CrewAI"],
+    "Applied AI": ["Edge AI", "AI-IoT Systems"],
+    "MLOps": ["Deployment", "Optimization"]
 }
