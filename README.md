@@ -1,119 +1,93 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a7ea4,100:00c9a7&height=220&section=header&text=Mubashar%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=62&descSize=18&descColor=ffffff" width="100%" />
-
----
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Voice+AI+%26+LLM+Systems+Builder+%F0%9F%94%A5;Healthcare+AI+%7C+Computer+Vision+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
-
----
-
-<!-- Contact Badges -->
-<a href="https://www.linkedin.com/in/mub-ali" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Mubashar%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mubasharalisatti@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-mubasharalisatti-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/MubasharAli-78" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-MubasharAli--78-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://wa.me/923115245902" target="_blank">
-  <img src="https://img.shields.io/badge/PHONE-%2B92%20311%205245902-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
----
-
-<!-- Profile Stats Row -->
-<img src="https://komarev.com/ghpvc/?username=MubasharAli-78&label=PROFILE+VIEWS&color=4c8cbf&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/MubasharAli-78?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=555" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMubasharAli-78&query=%24.stars&label=TOTAL+STARS&style=for-the-badge&color=f4900c&labelColor=555&logo=github" />
-
----
-
-<!-- About Me -->
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b8a,100:00c6ff&height=220&section=header&text=Mubashar%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&descColor=ffffff" width="100%" />
 
 </div>
 
-```python
-class MubasharAli:
-    name       = "Mubashar Ali"
-    role       = "AI Engineer"
-    location   = "Pakistan 🇵🇰"
-    email      = "mubasharalisatti@gmail.com"
-    github     = "MubasharAli-78"
-    linkedin   = "linkedin.com/in/mub-ali"
-    phone      = "+92 311 5245902"
-
-    expertise  = [
-        "Voice AI & Speech Systems",
-        "LLM Systems & Prompt Engineering",
-        "Healthcare AI",
-        "Computer Vision",
-        "NLP & Conversational AI",
-    ]
-
-    currently  = "Building intelligent AI solutions 🚀"
-    learning   = "Multimodal AI & Agentic Systems"
-    fun_fact   = "I turn coffee ☕ into AI models 🤖"
-```
+---
 
 <div align="center">
 
----
-
-## 🛠️ Tech Stack & Tools
-
-<!-- AI / ML -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MubasharAli-78&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false&count_private=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubasharAli-78&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MubasharAli-78&theme=tokyonight&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=0a7ea4" />
-
----
-
-## 🐍 Snake Eating My Contributions
-
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
 
 ---
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:0a7ea4,100:0d2137&height=120&section=footer" width="100%" />
+<div align="center">
+
+<!-- Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Muhammad%20Aneeq-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mub-ali)
+[![Gmail](https://img.shields.io/badge/M%20GMAIL-mubasharalisatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasharalisatti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-MubasharAli--78-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MubasharAli-78)
+[![Phone](https://img.shields.io/badge/PHONE-%2B92%20311%205245902-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923115245902)
 
 </div>
+
+<div align="center">
+
+<!-- Stats Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=MubasharAli-78&label=PROFILE+VIEWS&color=555555&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MubasharAli-78?label=FOLLOWERS&style=for-the-badge&color=0099ff)
+![Stars](https://img.shields.io/github/stars/MubasharAli-78?label=TOTAL+STARS&style=for-the-badge&color=FF6600)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems.  
+Specializing in **Voice AI**, **LLM Systems**, **Healthcare AI**, and **Computer Vision**.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Mubashar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MubasharAli-78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MubasharAli-78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MubasharAli-78&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=FF6600&currStreakLabel=00c6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:1a6b8a,100:0d1117&height=120&section=footer" width="100%" />
 
