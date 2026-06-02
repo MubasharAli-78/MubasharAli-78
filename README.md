@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a7ea4,100:00c9a7&height=220&section=header&text=Muhammad%20Aneeq&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=62&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a7ea4,100:00c9a7&height=220&section=header&text=Mubashar%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=62&descSize=18&descColor=ffffff" width="100%" />
 
 ---
 
@@ -13,30 +13,30 @@
 ---
 
 <!-- Contact Badges -->
-<a href="https://www.linkedin.com/in/muhammad-aneeq" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Muhammad%20Aneeq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mub-ali" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-Mubashar%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:aneeqqamar13@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-ANEEQQAMAR13-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:mubasharalisatti@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-mubasharalisatti-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/MANEEQ786" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-MANEEQ786-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/MubasharAli-78" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-MubasharAli--78-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://wa.me/923330245529" target="_blank">
-  <img src="https://img.shields.io/badge/PHONE-%2B92%20333%200245529-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923115245902" target="_blank">
+  <img src="https://img.shields.io/badge/PHONE-%2B92%20311%205245902-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ---
 
 <!-- Profile Stats Row -->
-<img src="https://komarev.com/ghpvc/?username=MANEEQ786&label=PROFILE+VIEWS&color=4c8cbf&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MubasharAli-78&label=PROFILE+VIEWS&color=4c8cbf&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/MANEEQ786?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=555" />
+<img src="https://img.shields.io/github/followers/MubasharAli-78?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=555" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMANEEQ786&query=%24.stars&label=TOTAL+STARS&style=for-the-badge&color=f4900c&labelColor=555&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMubasharAli-78&query=%24.stars&label=TOTAL+STARS&style=for-the-badge&color=f4900c&labelColor=555&logo=github" />
 
 ---
 
@@ -46,13 +46,14 @@
 </div>
 
 ```python
-class MuhammadAneeq:
-    name       = "Muhammad Aneeq"
+class MubasharAli:
+    name       = "Mubashar Ali"
     role       = "AI Engineer"
     location   = "Pakistan 🇵🇰"
-    email      = "aneeqqamar13@gmail.com"
-    github     = "MANEEQ786"
-    phone      = "+92 333 0245529"
+    email      = "mubasharalisatti@gmail.com"
+    github     = "MubasharAli-78"
+    linkedin   = "linkedin.com/in/mub-ali"
+    phone      = "+92 311 5245902"
 
     expertise  = [
         "Voice AI & Speech Systems",
@@ -91,22 +92,22 @@ class MuhammadAneeq:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MANEEQ786&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=MubasharAli-78&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANEEQ786&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubasharAli-78&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c9a7&text_color=ffffff&border_color=0a7ea4&hide_border=false" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANEEQ786&theme=tokyonight&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=0a7ea4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MubasharAli-78&theme=tokyonight&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=0a7ea4" />
 
 ---
 
 ## 🐍 Snake Eating My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MubasharAli-78/MubasharAli-78/output/github-snake-dark.svg" />
 </picture>
 
 ---
